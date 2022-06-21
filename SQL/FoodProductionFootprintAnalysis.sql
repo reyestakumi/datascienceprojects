@@ -108,4 +108,7 @@ From FoodProductionImpact..MilkFootprint
 
 
 
-
+-- Sources:
+-- Poore, J., & Nemecek, T. (2018). Reducing food’s environmental impacts through producers and consumers.
+-- UN Food and Agricultural Organization (FAO).
+-- Hannah Ritchie and Max Roser (2020) - "Environmental Impacts of Food Production". Published online at OurWorldInData.org
