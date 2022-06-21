@@ -1,3 +1,5 @@
+-- Tableau visualization available at https://public.tableau.com/views/TheEnvironmentalFootprintofFoodProduction/TheEnvironmentalFootprintofFoodProduction?:language=en-US&:display_count=n&:origin=viz_share_link
+
 -- GLOBAL GHG EMISSIONS
 
 --Global greenhouse gas emissions by sector
